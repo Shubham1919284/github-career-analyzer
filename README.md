@@ -10,6 +10,13 @@ An advanced, end-to-end, high-performance portfolio auditor and career readiness
 
 ---
 
+## 🌐 Live Application URLs
+
+* **Interactive Frontend (Streamlit UI)**: [https://career-analyzer-app.streamlit.app/](https://career-analyzer-app.streamlit.app/)
+* **Production API Backend (FastAPI)**: [https://github-career-analyzer.onrender.com/docs](https://github-career-analyzer.onrender.com/docs) (Swagger UI)
+
+---
+
 ## 🌟 Key Features
 
 ### 🔍 1. Profile Quick Scan
