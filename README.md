@@ -164,5 +164,21 @@ Open two terminal windows:
 
 ---
 
+## Author
+
+**Shubham Kumar Jha**  
+B.Tech CSE (Data Science) — Gulzar Group of Institutes, PTU
+
+[![Email](https://img.shields.io/badge/Email-sk1919284@gmail.com-D44638?style=flat&logo=gmail&logoColor=white)](mailto:sk1919284@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shubham--kumar--jha-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham-kumar-jha-1a2b3c)
+[![GitHub](https://img.shields.io/badge/GitHub-Shubham1919284-181717?style=flat&logo=github&logoColor=white)](https://github.com/Shubham1919284)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4CAF50?style=flat&logo=googlechrome&logoColor=white)](https://shubham1919284.github.io/Portfolio/)
+
+---
+
+*Open-source and free to use for educational and portfolio purposes. Attribution appreciated.*
+
+---
+
 ## 📜 License
 This project is licensed under the MIT License. See `LICENSE` for details.
